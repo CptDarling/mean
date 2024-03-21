@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.1.
 
+A Medium tutorial was used [MEAN Stack Quick Guide](https://medium.com/@onejohi/mean-stack-quick-guide-f50351ba56eb).
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
