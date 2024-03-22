@@ -4,6 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 A Medium tutorial was used [MEAN Stack Quick Guide](https://medium.com/@onejohi/mean-stack-quick-guide-f50351ba56eb).
 
+Then the Angular tutorial was used [Build your first Angular app](https://angular.io/tutorial/first-app).
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
